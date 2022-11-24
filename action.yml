@@ -15,5 +15,5 @@ inputs:
     description: A date string with YYYY-MM-DD hh:mm:ss format
     required: false
 runs:
-  using: node12
+  using: node16
   main: dist/index.js
